@@ -1,0 +1,11 @@
+outlet,n,pct_changed,mean_chars_removed
+TF1 INFO,10080,14.73,9.5
+Franceinfo,10080,7.0,8.5
+Ouest-France,10080,1.89,10.3
+Les Echos,10080,0.62,8.8
+Le Parisien,10080,0.49,7.1
+Le Figaro,10080,0.23,10.6
+BFMTV,10080,0.18,6.3
+Le Monde,10080,0.15,8.8
+La Croix,10080,0.1,9.2
+Libération,10080,0.04,12.0

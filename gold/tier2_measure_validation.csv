@@ -1,0 +1,6 @@
+measure,metric,value,admitted,TP,FP,FN,TN
+valence,rho,0.615,True,,,,
+attribution,kappa,0.971,True,18.0,0.0,1.0,221.0
+passive,kappa,0.745,True,45.0,19.0,3.0,173.0
+agent_subject,kappa,0.632,True,65.0,8.0,33.0,134.0
+hedging,kappa,0.839,True,40.0,9.0,3.0,188.0

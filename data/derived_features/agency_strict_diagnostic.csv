@@ -1,0 +1,1206 @@
+outlet,subj_text,subj_pos,subj_ent,orig_reason,strict_A,strict_B,demoted_A,demoted_B,person_or_institution
+BFMTV,Macron,PRON,PER,ent_PER/ORG,1,1,0,0,likely_person
+Les Echos,Pékin,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Etats-Unis,PROPN,LOC,PROPN,0,0,1,1,likely_institution
+Libération,Mathilde,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Amazon,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Union,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Disney,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Franceinfo,Conseil,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+La Croix,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,CGT,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,CFDT,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Canada,PROPN,LOC,PROPN,1,1,0,0,ambiguous
+TF1 INFO,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Gabriel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,ministre,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Figaro,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Ecommerce,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Parisien,maires,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Parisien,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Moody’,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Franceinfo,Télévisions,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Christelle,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Assistants,NOUN,none,plural_cap,1,1,0,0,ambiguous
+La Croix,Retraites,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Libération,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,Philips,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,EDF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Orient,PROPN,none,PROPN,0,1,1,0,likely_person
+Libération,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Italie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Macky,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Nupes,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Éric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Etats-Unis,PROPN,LOC,PROPN,0,0,1,1,likely_institution
+Libération,France,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Les Echos,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Pologne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Christian,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Pfizer,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Edouard,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,président,NOUN,none,actor_noun,1,1,0,0,likely_person
+Ouest-France,Navalny,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Figaro,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Didier,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,EDF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Ouest-France,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Français,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Franceinfo,Valérie,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Meta,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+BFMTV,Camaïeu,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Australie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Les Echos,Disney,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Spotify,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Elections,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Monde,Grèce,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Smic,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Conseil,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Figaro,Zohran,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Stellantis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,ministre,NOUN,none,actor_noun,1,1,0,0,likely_person
+Libération,or,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Parisien,Sébastien,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,JO-2024,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Bertelsmann,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Arcom,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Retraites,NOUN,none,plural_cap,1,1,0,0,ambiguous
+TF1 INFO,parquet,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Figaro,maires,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Parisien,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Elisabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,ministère,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Les Echos,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Parlement,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Les Echos,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Retraites,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Monde,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Eramet,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,EDF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Michel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Cyril,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Borne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Les Echos,Hamas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Jean-Luc,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Spotify,PRON,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+La Croix,banques,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,BHV,PROPN,MISC,PROPN,0,1,1,0,likely_person
+TF1 INFO,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Elon,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Macron,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Le Figaro,Pfizer,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,TotalEnergies,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Franceinfo,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+La Croix,Huguette,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Cluzel,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Elizabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Pierre,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Fret,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Lactalis,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Hausse,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Parisien,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Français,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Lactalis,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Funérailles,NOUN,MISC,plural_cap,1,1,0,0,ambiguous
+Libération,Bouygues,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Ouest-France,Allemagne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+Le Parisien,Tucker,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Lactalis,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Parisien,Conseil,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Jurassic,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Les Echos,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Ukraine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Celio,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Adidas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,EDF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Cyril,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+La Croix,EDF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,Christophe,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Bayrou,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,équipe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Paris,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Retailleau,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Claude,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Vivendi,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,ExxonMobil,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Israël,PROPN,LOC,PROPN,1,1,0,0,ambiguous
+Franceinfo,Allemagne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Amazon,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Britanniques,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Le Parisien,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+TF1 INFO,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,CPI,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Anticor,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Franceinfo,Manuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,PS,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,CMA,PROPN,none,PROPN,0,1,1,0,likely_person
+Libération,Société,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Stellantis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Tunisie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Bercy,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,président,NOUN,none,actor_noun,1,1,0,0,likely_person
+TF1 INFO,Français,NOUN,MISC,plural_cap,1,1,0,0,ambiguous
+Libération,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Scopelec,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+La Croix,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Parisien,Automobile,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Parisien,Amazon,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,CGT,PROPN,ORG,PROPN,1,1,0,0,likely_institution
+Les Echos,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,York,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,justice,NOUN,none,actor_noun,1,1,0,0,likely_institution
+Le Figaro,Fonds,NOUN,ORG,plural_cap,1,1,0,0,likely_institution
+La Croix,Universal,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,ExxonMobil,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,entreprise,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Figaro,Navalny,PROPN,none,PROPN,0,1,1,0,likely_person
+BFMTV,Jean-Michel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Nupes,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Pentagone,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,BCE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,président,NOUN,none,actor_noun,1,1,0,0,likely_person
+Libération,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Michelin,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,BCE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Wagner,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Ukraine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,PS,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Amsterdam,PROPN,LOC,PROPN,1,1,0,0,ambiguous
+Le Figaro,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Automobile,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+La Croix,Disney,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+La Croix,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Scopelec,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Netflix,PROPN,MISC,PROPN,0,1,1,0,likely_person
+La Croix,Takata,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Figaro,Zelensky,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Intermarché,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Les Echos,Benoît,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Olivier,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Fried,PROPN,none,PROPN,0,1,1,0,likely_person
+TF1 INFO,Sénégal,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Tesla,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Commission,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Figaro,Régionales,NOUN,ORG,ent_PER/ORG,1,1,0,0,likely_institution
+Ouest-France,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Fonds,NOUN,ORG,plural_cap,1,1,0,0,likely_institution
+Le Monde,Airbus,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Libération,Néonicotinoïdes,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Sophie,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+TF1 INFO,Tesla,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,Royaume,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Les Echos,Boulangers,NOUN,MISC,plural_cap,1,1,0,0,ambiguous
+Le Monde,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,ministre,NOUN,none,actor_noun,1,1,0,0,likely_person
+Franceinfo,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Poutine,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Trump,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Grèce,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Figaro,Géorgie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Banque,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Ouest-France,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Iran,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+Libération,France,PROPN,ORG,PROPN,1,1,0,0,likely_institution
+Le Monde,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Auchan,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Ouest-France,Canada,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Ouest-France,Bill,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+BFMTV,Adidas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Gaza,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,CGT,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Australie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Figaro,Pam,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Rachida,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Jeff,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Tam,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Parisien,Taha,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,justice,NOUN,none,actor_noun,1,1,0,0,likely_institution
+La Croix,Maire,NOUN,none,actor_noun,1,1,0,0,likely_person
+BFMTV,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Zouari,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Rachida,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Retraites,NOUN,none,plural_cap,1,1,0,0,ambiguous
+La Croix,Macron,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Les Echos,Strasbourg,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Berlin,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Philips,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Jean-Michel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Israël,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Le Monde,Pen,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Syrie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Etats-Unis,PROPN,LOC,PROPN,0,0,1,1,likely_institution
+La Croix,Michelin,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Allemagne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,anti-Covid,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,EELV,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,Bruxelles,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Franceinfo,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,parquet,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Les Echos,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Stratagème,PROPN,none,PROPN,0,1,1,0,likely_person
+Franceinfo,Budget,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+TF1 INFO,Jean,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Nupes,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Élections,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Monde,Yves,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Stellantis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Jack,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+Les Echos,Shein,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Apple,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Pierre-Yves,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Conseil,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Ouest-France,opposition,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Elizabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Stéphane,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,président,NOUN,none,actor_noun,1,1,0,0,likely_person
+BFMTV,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Goodyear,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Moscou,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Delphine,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Attaques,NOUN,MISC,plural_cap,1,1,0,0,ambiguous
+Les Echos,Thierry,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Amazon,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Bayrou,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,PS,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Conseil,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+BFMTV,Mer,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,ministre,NOUN,PER,actor_noun,1,1,0,0,likely_person
+BFMTV,Renaissance,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Libération,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+La Croix,Société,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Galeries,NOUN,ORG,plural_cap,1,1,0,0,likely_institution
+Le Parisien,Carburants,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Monde,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Société,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Stellantis,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Michel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Trump,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Bateau,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Le Parisien,Macron,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+La Croix,Pfizer,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,groupes,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Rodolphe,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Galeries,NOUN,ORG,plural_cap,1,1,0,0,likely_institution
+Le Parisien,Jean,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,ministre,NOUN,MISC,actor_noun,1,1,0,0,likely_person
+Libération,Crédit,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+TF1 INFO,Jeff,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Moscou,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Les Echos,Covid,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Crédit,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+La Croix,association,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Ouest-France,Russie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Australie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,banques,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Luca,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,Navalny,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Figaro,Sébastien,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Bill,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,État,NOUN,LOC,actor_noun,0,0,1,1,likely_institution
+La Croix,TotalEnergies,PROPN,MISC,PROPN,0,1,1,0,likely_person
+BFMTV,dirigeants,NOUN,none,actor_noun,1,1,0,0,likely_person
+TF1 INFO,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Parisien,Intermarché,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Russie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Trump,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Isabelle,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,entreprise,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Doctolib,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Commission,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Moïse,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Renaissance,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Le Parisien,Navalny,PROPN,none,PROPN,0,1,1,0,likely_person
+Franceinfo,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Adidas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,James,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Carburants,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Parisien,Twitter,PROPN,MISC,PROPN,0,1,1,0,likely_person
+TF1 INFO,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Jeff,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Takata,PROPN,none,PROPN,0,1,1,0,likely_person
+La Croix,EDF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Benoît,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,États-Unis,PROPN,LOC,PROPN,0,0,1,1,likely_institution
+TF1 INFO,PS,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Parisien,Adidas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Figaro,Macron,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Le Parisien,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+BFMTV,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Conseil,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Libération,Arcom,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Shein,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Le Parisien,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Nucléaire,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Ouest-France,Boeing,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,CGT,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Shein,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+BFMTV,Altice,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+TF1 INFO,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Figaro,ministère,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Libération,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,tribunal,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Huguette,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Sénat,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Fonds,NOUN,ORG,plural_cap,1,1,0,0,likely_institution
+Le Figaro,Renaissance,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Franceinfo,Sébastien,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Commission,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Figaro,Paris,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Stellantis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Cabinet,PROPN,none,PROPN,1,1,0,0,likely_person
+La Croix,Doliprane,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+BFMTV,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Bruxelles,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+La Croix,Bayou,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Trump,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+Les Echos,Viktor,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Jean,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Tunisie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Pologne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,Macron,PRON,PER,ent_PER/ORG,1,1,0,0,likely_person
+Franceinfo,Banque,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Union,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Airbags,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Monde,salariés,NOUN,none,actor_noun,1,1,0,0,likely_person
+La Croix,Rodez,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Ouest-France,Amazon,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Israël,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Libération,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,TotalEnergies,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Franceinfo,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Ukraine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Figaro,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,équipe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Parlement,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+BFMTV,Gabriel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,Plaintes,NOUN,none,plural_cap,1,1,0,0,ambiguous
+BFMTV,Mathilde,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,post-Brexit,ADJ,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+TF1 INFO,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Libération,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,David,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Alexis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Maire,NOUN,none,actor_noun,1,1,0,0,likely_person
+Les Echos,Elections,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Libération,Rodolphe,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Doctolib,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Retailleau,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Julien,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Banque,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Monde,Castex,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Garden,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Monde,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Hollywood,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Jean-Yves,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Intermarché,PROPN,none,PROPN,0,1,1,0,likely_person
+Franceinfo,député,NOUN,none,actor_noun,1,1,0,0,likely_person
+BFMTV,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Viktor,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Xavier,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Elizabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Canal+,PRON,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+BFMTV,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Stellantis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,Karol,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Jérôme,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Ubisoft,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Lactalis,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Ouest-France,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Standard,NOUN,ORG,plural_cap,1,1,0,0,likely_institution
+Franceinfo,Alain,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,ExxonMobil,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Bonus,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Figaro,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Les Echos,parti,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Michelin,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Jean,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Thierry,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Renault,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Kookaï,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Adidas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Stellantis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Benoît,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Lufthansa,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Claude,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Monde,Meta,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Franceinfo,Essais,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Libération,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Adidas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Cyril,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Zouari,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Espagne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Julien,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,anti-Covid,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,UBS,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Meta,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Les Echos,Lufthansa,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Société,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,EDF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,électeurs,NOUN,none,actor_noun,1,1,0,0,likely_person
+Ouest-France,Tunis,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Figaro,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Valérie,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Russie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,TGV,NOUN,MISC,plural_cap,1,1,0,0,ambiguous
+Le Monde,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Adidas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Apple,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Michelin,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Pfizer,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Quai,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Airbus,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Sanofi,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Macky,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Poutine,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Disney,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Matthieu,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Éric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Paris,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Vivendi,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Edouard,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,entreprise,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Figaro,Conseil,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Lufthansa,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Ouest-France,Berlin,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Macron,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+BFMTV,Sarkozy,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Darmanin,PRON,PER,ent_PER/ORG,1,1,0,0,likely_person
+Libération,Union,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Bayrou,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Shein,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Ouest-France,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Immigration,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Monde,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,équipe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Shein,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Le Parisien,Joe,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Franceinfo,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+BFMTV,Boeing,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,Marion,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Olivier,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Edouard,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Borne,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Claude,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Poutine,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Fret,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,banque,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,ministre,NOUN,none,actor_noun,1,1,0,0,likely_person
+TF1 INFO,Alexis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+TF1 INFO,Elisabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,ExxonMobil,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Garden,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Le Monde,Mogadiscio,PROPN,LOC,PROPN,1,1,0,0,ambiguous
+TF1 INFO,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Lactalis,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Édouard,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+BFMTV,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Les Echos,Amazon,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,EDF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Smic,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Le Parisien,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Figaro,Xavier,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Xi,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,maire,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Monde,UBS,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Shein,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Libération,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Shein,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Franceinfo,Xavier,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Bayrou,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Australie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+La Croix,Michel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Hamas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,député,NOUN,none,actor_noun,1,1,0,0,likely_person
+Libération,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Les Echos,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+BFMTV,Alexis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,opposition,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Franceinfo,ministres,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Parisien,Tunis,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Parti,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Retailleau,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Paris,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Les Echos,Ukraine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Les Echos,Retraites,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Ouest-France,Élections,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Monde,Universal,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Ford,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+La Croix,Twitter,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Ouest-France,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+TF1 INFO,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Vivendi,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Jack,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Sébastien,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Conseil,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Franceinfo,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Les Echos,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Sébastien,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,ministre,NOUN,none,actor_noun,1,1,0,0,likely_person
+TF1 INFO,Poor',PROPN,none,PROPN,0,1,1,0,likely_person
+Le Monde,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Renault,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,État,NOUN,LOC,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Hamas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Maire,NOUN,MISC,actor_noun,1,1,0,0,likely_person
+Le Figaro,Macron,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Le Figaro,président,NOUN,none,actor_noun,1,1,0,0,likely_person
+La Croix,Northvolt,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Hamas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Australie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Les Echos,Londres,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Conseil,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Les Echos,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Michelin,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,-,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Monde,Apple,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Jean-Luc,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Calédonie,PROPN,none,PROPN,1,1,0,0,likely_person
+Le Figaro,Autorité,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Les Echos,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Luca,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Antonio,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Shein,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Ouest-France,Union,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Ouest-France,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Tucker,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Jean,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Smic,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Le Parisien,Propos,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Franceinfo,salariés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Libération,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,PS,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Airbus,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Ouest-France,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Etats-Unis,PROPN,LOC,PROPN,0,0,1,1,likely_institution
+Franceinfo,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Boeing,NOUN,ORG,ent_PER/ORG,1,1,0,0,likely_institution
+Le Parisien,Hamas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Union,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Tam,PROPN,none,PROPN,0,1,1,0,likely_person
+Les Echos,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Figaro,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Mortaza,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Hamas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Lactalis,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Soupçons,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Monde,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Parisien,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Hamas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Les Echos,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Retailleau,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Essais,NOUN,none,plural_cap,1,1,0,0,ambiguous
+La Croix,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,TotalEnergies,PROPN,MISC,PROPN,0,1,1,0,likely_person
+BFMTV,Italie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Valérie,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Occident,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Xavier,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Pfizer,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Spotify,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,syndicats,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,anti-Covid,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,Zohran,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Roussel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+La Croix,Etats-Unis,PROPN,LOC,PROPN,0,0,1,1,likely_institution
+Libération,maires,NOUN,none,actor_noun,1,1,0,0,likely_person
+Les Echos,Anticor,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Franceinfo,Elisabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Berlin,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Sénat,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Monde,Bruxelles,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+TF1 INFO,autorités,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Biden,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Tucker,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Figaro,Pulvar,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+La Croix,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Figaro,Cour,NOUN,ORG,ent_PER/ORG,1,1,0,0,likely_institution
+BFMTV,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Parisien,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Pierre,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Rachida,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Retraites,NOUN,none,plural_cap,1,1,0,0,ambiguous
+TF1 INFO,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Ubisoft,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Monde,Free,PROPN,MISC,PROPN,0,1,1,0,likely_person
+La Croix,sénateurs,NOUN,none,actor_noun,1,1,0,0,likely_person
+Les Echos,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Airbus,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Promotions,NOUN,none,plural_cap,1,1,0,0,ambiguous
+TF1 INFO,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,gouvernements,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Xavier,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Europe,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Monde,élus,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Figaro,Grèce,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Eramet,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+La Croix,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Kirill,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Société,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Bateau,PROPN,MISC,PROPN,0,1,1,0,likely_person
+TF1 INFO,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Valérie,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Coquerel,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Essais,NOUN,none,plural_cap,1,1,0,0,ambiguous
+BFMTV,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Crédit,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Les Echos,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Robert,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Suisses,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Le Parisien,Lafayette,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+La Croix,Élisabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Bezos,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,ministère,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+La Croix,Démissions,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Libération,Mélenchon,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Zelensky,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Edouard,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Résultats,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Figaro,Liot,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Droits,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Parisien,Mer,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Ouest-France,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Automobile,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Parisien,Commission,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Libération,Grèce,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Lactalis,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Edouard,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,ExxonMobil,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Venezuela,PROPN,LOC,PROPN,1,1,0,0,ambiguous
+Le Figaro,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Valérie,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Amazon,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Maire,NOUN,PER,actor_noun,1,1,0,0,likely_person
+La Croix,Bertelsmann,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Les Echos,Rachida,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Galeries,NOUN,ORG,plural_cap,1,1,0,0,likely_institution
+BFMTV,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Ouest-France,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Français,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Amazon,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Jean,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Elisabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,banque,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Libération,Northvolt,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Alexis,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Benoît,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Monde,Front,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Northvolt,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Libération,ministres,NOUN,none,actor_noun,1,1,0,0,likely_person
+Libération,Moscou,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Ouest-France,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Mathilde,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Darmanin,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Carburants,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Franceinfo,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Paris,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Washington,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Meta,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Monde,parquet,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Union,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Nestlé,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Figaro,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,banque,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Chikirou,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Valérie,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,Venezuela,PROPN,LOC,PROPN,1,1,0,0,ambiguous
+TF1 INFO,Pékin,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Camilla,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Figaro,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Calédonie,PROPN,none,PROPN,1,1,0,0,likely_person
+Franceinfo,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Franceinfo,COP26,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,État,NOUN,LOC,actor_noun,0,0,1,1,likely_institution
+BFMTV,SFR,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Essais,NOUN,MISC,plural_cap,1,1,0,0,ambiguous
+Les Echos,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Iran,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Credit,X,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Figaro,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Parisien,Hawaï,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Pfizer,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Ukraine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Orpea,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Stellantis,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Congrès,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+La Croix,Bouygues,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Jeff,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,direction,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Londres,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Éric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Les Echos,Michelin,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,député,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Parisien,Tam,PROPN,none,PROPN,0,1,1,0,likely_person
+Franceinfo,ministre,NOUN,none,actor_noun,1,1,0,0,likely_person
+Franceinfo,Airbus,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Moody’,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Libération,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Monde,Elisabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,FBI,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Figaro,David,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Bruxelles,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Le Monde,dirigeants,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Monde,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Etats-Unis,PROPN,LOC,PROPN,0,0,1,1,likely_institution
+Le Monde,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Cyril,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,justice,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Figaro,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Monde,Maire,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Parisien,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Conclave,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Libération,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Sophie,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Galeries,NOUN,ORG,plural_cap,1,1,0,0,likely_institution
+Franceinfo,Elizabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,CGT,PROPN,ORG,PROPN,1,1,0,0,likely_institution
+BFMTV,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,élus,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Monde,Boris,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,président,NOUN,none,actor_noun,1,1,0,0,likely_person
+Franceinfo,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Franceinfo,ONG,NOUN,none,actor_noun,1,1,0,0,likely_institution
+Libération,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Retailleau,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Calédonie,PROPN,none,PROPN,0,1,1,0,likely_person
+Libération,Doliprane,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Eric,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Allemagne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,élus,NOUN,none,actor_noun,1,1,0,0,likely_person
+Franceinfo,Jack,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Pfizer,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Franceinfo,président,NOUN,none,actor_noun,1,1,0,0,likely_person
+BFMTV,Moody',PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Macron,NOUN,PER,ent_PER/ORG,1,1,0,0,likely_person
+Le Monde,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Michelin,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+TF1 INFO,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,président,NOUN,none,actor_noun,1,1,0,0,likely_person
+La Croix,Trump,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,salariés,NOUN,none,actor_noun,1,1,0,0,likely_person
+TF1 INFO,Kansas,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Franceinfo,armée,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Franceinfo,Concerts,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Monde,Jean,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Intermarché,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,Vaccins,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Le Monde,Galeries,NOUN,ORG,plural_cap,1,1,0,0,likely_institution
+Les Echos,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,président,NOUN,none,actor_noun,1,1,0,0,likely_person
+Libération,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,ministre,NOUN,MISC,actor_noun,1,1,0,0,likely_person
+TF1 INFO,Sophie,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+BFMTV,Suisses,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Les Echos,Vivendi,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Les Echos,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+Libération,Suicides,NOUN,ORG,ent_PER/ORG,1,1,0,0,likely_institution
+BFMTV,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Anticor,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+La Croix,Nawrocki,PROPN,none,PROPN,0,1,1,0,likely_person
+TF1 INFO,Elisabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Hommage,PROPN,none,PROPN,0,1,1,0,likely_person
+Libération,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Iran,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,patronat,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Zouari,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Libération,Drian,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,ministère,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+Libération,Google,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Conseil,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Parisien,Apple,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,Darmanin,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Hawaï,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Les Echos,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,SNCF,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+La Croix,UE,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Ursula,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Castex,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,France,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,parquet,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Libération,Meta,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+TF1 INFO,Rodolphe,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,Société,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Parisien,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+TF1 INFO,Biden,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Carburants,NOUN,none,plural_cap,1,1,0,0,ambiguous
+La Croix,Bétharram,PROPN,LOC,PROPN,1,1,0,0,ambiguous
+Le Parisien,syndicats,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Northvolt,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Choisir,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Monde,députée,NOUN,none,actor_noun,1,1,0,0,likely_person
+La Croix,Olivier,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,groupe,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Parisien,Conseil,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Franceinfo,Conseil,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Le Monde,Celio,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Allemagne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,Italie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Macron,ADV,PER,ent_PER/ORG,1,1,0,0,likely_person
+Les Echos,Calédonie,PROPN,none,PROPN,1,1,0,0,likely_person
+Les Echos,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Quai,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Jérôme,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Taha,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,PS,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Franceinfo,Albi,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Pologne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Les Echos,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Ouest-France,Israël,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,David,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Autoroutes,NOUN,LOC,plural_cap,1,1,0,0,ambiguous
+Le Monde,Olivier,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Boris,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,France,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Pentagone,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+TF1 INFO,Marion,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Blanquer,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Éric,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Boris,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Camaïeu,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Australie,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,UBS,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Monde,Audi,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Libération,Londres,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+La Croix,Paris,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Libération,ministre,NOUN,none,actor_noun,1,1,0,0,likely_person
+BFMTV,députés,NOUN,none,actor_noun,1,1,0,0,likely_person
+BFMTV,Relations,NOUN,none,plural_cap,1,1,0,0,ambiguous
+Les Echos,Pen,PROPN,none,PROPN,0,1,1,0,likely_person
+TF1 INFO,ministre,NOUN,MISC,actor_noun,1,1,0,0,likely_person
+Les Echos,TotalEnergies,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Franceinfo,Édouard,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Pologne,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Ouest-France,Choisir,PROPN,none,PROPN,0,1,1,0,likely_person
+Franceinfo,armée,NOUN,none,actor_noun,1,1,0,0,likely_institution
+Franceinfo,groupes,NOUN,none,actor_noun,0,0,1,1,likely_institution
+Le Figaro,Claude,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Élisabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Bercy,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Parisien,Sénat,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+TF1 INFO,Calédonie,PROPN,none,PROPN,1,1,0,0,likely_person
+Libération,Pierre,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Google,PRON,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+BFMTV,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Xavier,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,Maire,NOUN,none,actor_noun,1,1,0,0,likely_person
+Libération,Elon,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Audi,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Libération,Thierry,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Assemblée,NOUN,ORG,actor_noun,0,0,1,1,likely_institution
+Ouest-France,Donald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Kansas,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+Le Monde,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Rachida,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Nicolas,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Sophie,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Sénat,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,salariés,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Monde,Gérald,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,Elizabeth,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Virus,PROPN,MISC,PROPN,0,1,1,0,likely_person
+Le Parisien,LFI,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Figaro,Isabelle,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Bosch,PROPN,PER,PROPN,1,1,0,0,likely_person
+Franceinfo,Vladimir,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,parquet,NOUN,none,actor_noun,0,0,1,1,likely_institution
+La Croix,Laurent,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,Chine,PROPN,LOC,PROPN,0,0,1,1,ambiguous
+BFMTV,Eramet,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+TF1 INFO,Amazon,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+BFMTV,Maire,NOUN,none,actor_noun,1,1,0,0,likely_person
+Le Parisien,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Les Echos,Assemblée,NOUN,ORG,ent_PER/ORG,0,0,1,1,likely_institution
+Le Figaro,Anne,PROPN,PER,PROPN,1,1,0,0,likely_person
+La Croix,Michel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Ouest-France,Trump,PROPN,PER,PROPN,1,1,0,0,likely_person
+BFMTV,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Adidas,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,Emmanuel,PROPN,PER,PROPN,1,1,0,0,likely_person
+Libération,François,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Monde,Bruno,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Figaro,Drian,PROPN,ORG,PROPN,0,0,1,1,likely_institution
+Le Monde,gouvernement,NOUN,none,actor_noun,0,0,1,1,likely_institution
+BFMTV,Calédonie,PROPN,none,PROPN,0,1,1,0,likely_person
+Le Monde,Arcom,PROPN,none,PROPN,0,1,1,0,likely_person
+Franceinfo,Sophie,PROPN,PER,PROPN,1,1,0,0,likely_person
+Le Parisien,président,NOUN,none,actor_noun,1,1,0,0,likely_person

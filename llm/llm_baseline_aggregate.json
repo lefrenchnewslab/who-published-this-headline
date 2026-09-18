@@ -1,0 +1,104 @@
+[
+ {
+  "tag": "gpt-oss-120b",
+  "model": "gpt-oss-120b",
+  "provider": "custom",
+  "shots": 0,
+  "n_seeds": 3,
+  "mean_accuracy": 0.1946127946127946,
+  "std_accuracy": 0.006679068829925045,
+  "mean_macro_f1": 0.18885773396475605,
+  "mean_x_chance": 1.9461279461279462,
+  "mean_parse_rate": 1.0,
+  "seeds": [
+   42,
+   13,
+   1234
+  ]
+ },
+ {
+  "tag": "gpt-oss-120b",
+  "model": "gpt-oss-120b",
+  "provider": "custom",
+  "shots": 5,
+  "n_seeds": 3,
+  "mean_accuracy": 0.2016835016835017,
+  "std_accuracy": 0.011925562793552075,
+  "mean_macro_f1": 0.194530502276817,
+  "mean_x_chance": 2.016835016835017,
+  "mean_parse_rate": 0.9993265993265993,
+  "seeds": [
+   42,
+   13,
+   1234
+  ]
+ },
+ {
+  "tag": "llama-3.3-70b",
+  "model": "llama-3.3-70b",
+  "provider": "custom",
+  "shots": 0,
+  "n_seeds": 3,
+  "mean_accuracy": 0.20572390572390575,
+  "std_accuracy": 0.005980579012906271,
+  "mean_macro_f1": 0.19307805072602524,
+  "mean_x_chance": 2.057239057239057,
+  "mean_parse_rate": 0.9996632996632996,
+  "seeds": [
+   42,
+   13,
+   1234
+  ]
+ },
+ {
+  "tag": "llama-3.3-70b",
+  "model": "llama-3.3-70b",
+  "provider": "custom",
+  "shots": 5,
+  "n_seeds": 3,
+  "mean_accuracy": 0.201010101010101,
+  "std_accuracy": 0.0027041041084527005,
+  "mean_macro_f1": 0.18816948540429881,
+  "mean_x_chance": 2.01010101010101,
+  "mean_parse_rate": 1.0,
+  "seeds": [
+   42,
+   13,
+   1234
+  ]
+ },
+ {
+  "tag": "mistral-small",
+  "model": "mistral-small",
+  "provider": "custom",
+  "shots": 0,
+  "n_seeds": 3,
+  "mean_accuracy": 0.19427609427609427,
+  "std_accuracy": 0.009442628728875527,
+  "mean_macro_f1": 0.17112092251919933,
+  "mean_x_chance": 1.942760942760943,
+  "mean_parse_rate": 0.9946127946127946,
+  "seeds": [
+   42,
+   13,
+   1234
+  ]
+ },
+ {
+  "tag": "mistral-small",
+  "model": "mistral-small",
+  "provider": "custom",
+  "shots": 5,
+  "n_seeds": 3,
+  "mean_accuracy": 0.19242424242424241,
+  "std_accuracy": 0.001091033787610745,
+  "mean_macro_f1": 0.16309213289627456,
+  "mean_x_chance": 1.924242424242424,
+  "mean_parse_rate": 0.9978114478114479,
+  "seeds": [
+   42,
+   13,
+   1234
+  ]
+ }
+]

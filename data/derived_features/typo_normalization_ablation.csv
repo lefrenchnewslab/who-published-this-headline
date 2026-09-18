@@ -1,0 +1,4 @@
+condition,accuracy,macro_f1
+raw,0.4965,0.4892
+typo_normalized,0.4269,0.4189
+delta(raw-norm),0.0696,0.0703

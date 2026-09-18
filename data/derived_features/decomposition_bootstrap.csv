@@ -1,0 +1,7 @@
+component,point_pct,ci_lo_pct,ci_hi_pct
+presentation,43.5,42.5,44.5
+entities,13.6,12.5,14.6
+lexical_residual,43.0,41.9,44.0
+acc_raw,0.4965,0.4914,0.5021
+acc_surface_stripped,0.324,0.3196,0.3286
+acc_entity_stripped,0.2703,0.2658,0.2747

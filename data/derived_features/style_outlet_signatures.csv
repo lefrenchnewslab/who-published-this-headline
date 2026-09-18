@@ -1,0 +1,11 @@
+outlet,most_distinctive_high,most_distinctive_low
+Le Monde,"function_word_ratio(+2.1), n_comma(+1.2), has_guillemets(+1.2)","listicle_open(-1.6), has_paren(-1.5), digit_density(-1.4)"
+Le Figaro,"has_percent(+1.0), has_guillemets(+1.0), digit_density(+0.5)","has_dquote(-0.7), listicle_open(-0.7), has_ellipsis(-0.6)"
+Les Echos,"mean_word_len(+1.1), upper_ratio(+0.6), has_exclaim(+0.5)","word_count(-1.9), char_len(-1.8), has_number(-1.7)"
+Libération,"n_comma(+1.6), n_allcaps_tok(+1.2), has_guillemets(+1.0)","digit_density(-1.2), mean_word_len(-1.2), has_number(-0.8)"
+La Croix,"has_paren(+2.0), has_percent(+0.8), digit_density(+0.2)","has_ellipsis(-1.2), char_len(-1.1), word_count(-1.0)"
+Le Parisien,"has_ellipsis(+1.5), has_exclaim(+1.5), has_guillemets(+1.4)","has_dquote(-0.8), upper_ratio(-0.6), mean_word_len(-0.5)"
+Franceinfo,"has_dquote(+1.6), colon_lead(+1.5), has_colon(+1.4)","has_guillemets(-1.2), upper_ratio(-0.7), has_paren(-0.7)"
+BFMTV,"has_percent(+2.2), listicle_open(+2.0), n_allcaps_tok(+1.7)","has_guillemets(-1.2), n_comma(-1.1), has_exclaim(-0.9)"
+TF1 INFO,"has_dash(+3.0), has_question(+2.8), has_exclaim(+2.1)","has_guillemets(-1.2), has_percent(-0.6), function_word_ratio(-0.5)"
+Ouest-France,"upper_ratio(+2.7), mean_word_len(+2.3), has_ellipsis(+1.5)","colon_lead(-2.2), n_allcaps_tok(-2.1), has_colon(-2.0)"

@@ -1,0 +1,11 @@
+dropped,beta,p_bonf,sig,n_clusters,n_headlines
+"(none, full panel)",0.0556,0.0084,True,626,3006
+Franceinfo,0.0294,0.3451,False,411,1925
+La Croix,0.0507,0.0469,True,419,1950
+Le Figaro,0.0603,0.0064,True,500,2400
+Le Monde,0.0521,0.049,True,423,2018
+Le Parisien,0.0408,0.1301,False,416,1975
+Les Echos,0.0586,0.0057,True,512,2440
+Libération,0.0388,0.1715,False,377,1791
+Ouest-France,0.0636,0.0031,True,554,2663
+TF1 INFO,0.0483,0.0592,False,410,1914

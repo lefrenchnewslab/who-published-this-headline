@@ -1,0 +1,3 @@
+definition,outlet,measure,direction,beta,p_onesided,p_bonf,sig
+original,BFMTV,agent_subject,gt,0.0524,0.0044,0.0174,True
+strict_animate,BFMTV,agent_subject_strict,gt,0.018,0.1362,0.5447,False

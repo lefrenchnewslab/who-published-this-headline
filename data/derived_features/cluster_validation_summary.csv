@@ -1,0 +1,6 @@
+analysis,setting,clusters,headlines,beta,p_bonf,sig
+min_outlets,>= 3 outlets,626,3006,0.0556,0.0084,True
+min_outlets,>= 4 outlets,626,3006,0.0556,0.0084,True
+min_outlets,>= 5 outlets,179,1065,0.0192,1.0,False
+syndication,full,626,3006,0.0556,0.0084,True
+syndication,no_syndication,386,1832,0.0726,0.0161,True

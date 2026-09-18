@@ -1,0 +1,5 @@
+outlet,measure,direction,beta,p_onesided,p_bonf,sig
+Libération,valence,lt,-0.0206,0.2624,1.0,False
+Les Echos,attribution,lt,-0.0081,0.1907,0.763,False
+BFMTV,attribution,gt,0.02,0.0488,0.1953,False
+BFMTV,agent_subject,gt,0.0556,0.0021,0.0084,True

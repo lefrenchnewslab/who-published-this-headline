@@ -1,0 +1,22 @@
+outlet,measure,n_events,n_needed,powered,min_detectable_eff
+BFMTV,valence,626,143,True,0.123
+BFMTV,attribution,626,133,True,0.123
+Franceinfo,valence,626,143,True,0.123
+Franceinfo,attribution,626,133,True,0.123
+La Croix,valence,626,143,True,0.123
+La Croix,attribution,626,133,True,0.123
+Le Figaro,valence,626,143,True,0.123
+Le Figaro,attribution,626,133,True,0.123
+Le Monde,valence,626,143,True,0.123
+Le Monde,attribution,626,133,True,0.123
+Le Parisien,valence,626,143,True,0.123
+Le Parisien,attribution,626,133,True,0.123
+Les Echos,valence,626,143,True,0.123
+Les Echos,attribution,626,133,True,0.123
+Libération,valence,626,143,True,0.123
+Libération,attribution,626,133,True,0.123
+Ouest-France,valence,626,143,True,0.123
+Ouest-France,attribution,626,133,True,0.123
+TF1 INFO,valence,626,143,True,0.123
+TF1 INFO,attribution,626,133,True,0.123
+BFMTV,agent_subject,626,,True,0.06

@@ -1,0 +1,11 @@
+measure,metric,value,n
+valence,spearman_rho,0.791,240
+valence,weighted_kappa,0.713,240
+attribution,cohen_kappa,0.92,240
+attribution,pct_agreement,0.988,240
+passive,cohen_kappa,0.848,240
+passive,pct_agreement,0.954,240
+agent_subject,cohen_kappa,0.853,240
+agent_subject,pct_agreement,0.929,240
+hedging,cohen_kappa,0.915,240
+hedging,pct_agreement,0.975,240

@@ -1,0 +1,4 @@
+n_a_only,n_b_only,p_value,model_a,model_b
+6792,2671,0.0,camembert,char_svm
+6403,2430,0.0,camembert,charcnn_word
+8612,2389,0.0,char_svm,word_lr
