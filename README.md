@@ -1,7 +1,62 @@
-# Supplementary Material — Reproduction Guide
+# Who Published This Headline? Editorial Fingerprinting in French News Under Topic Control
 
-**Paper:** *Who Published This Headline? Editorial Fingerprinting in French News Under Topic Control*
-**Venue:** WaC-13 @ EMNLP 2026
+[![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-2026.wac--1.3-red)](https://aclanthology.org/2026.wac-1.3/)
+[![PDF](https://img.shields.io/badge/PDF-paper-blue)](https://aclanthology.org/2026.wac-1.3.pdf)
+
+**Paper:** <https://aclanthology.org/2026.wac-1.3/> · [PDF](https://aclanthology.org/2026.wac-1.3.pdf) · DOI [10.18653/2026.wac-1.3](https://doi.org/10.18653/2026.wac-1.3)  
+**Venue:** Proceedings of the 13th Web-as-Corpus Workshop (WaC-13 @ EMNLP 2026), Budapest, Hungary, pp. 22–36
+
+## About the paper
+
+Can you tell which outlet published a French news headline from the headline alone, once the topic
+is held fixed? And if so, what is that "editorial fingerprint" made of?
+
+- **Corpus.** 170,160 headlines from ten national French outlets (selected through ACPM
+  circulation/audience rankings) across three hard-news categories, balanced by outlet × category.
+- **Attribution.** A fine-tuned CamemBERT identifies the publisher of an entity-masked headline in a
+  future, unseen year at nearly six times chance; masking outlet self-references barely changes this.
+- **Decomposition.** Staged removal of surface form and named entities attributes the fingerprint
+  largely to presentation (casing, punctuation, typographic house style) and to a lexical residual,
+  with a smaller share carried by which entities are named. Tone adds almost nothing.
+- **Matched events.** Holding the reported event constant (same-event clusters compared within
+  cluster with a human-validated fixed-effects estimator), both pre-specified attribution contrasts
+  fall to near zero. One validated difference survives: BFMTV foregrounds institutional and
+  corporate actors as grammatical agents more than its peers.
+
+The takeaway: it takes strict topic and event control before outlet differences can be read as
+framing rather than agenda (story selection) or house style.
+
+This repository is the paper's supplementary material: identifiers, hashes, code, derived features,
+the framing codebook, and gold annotations. The rest of this file is the reproduction guide.
+
+## Citation
+
+```bibtex
+@inproceedings{sobhy-2026-published,
+    title = "Who Published This Headline? Editorial Fingerprinting in {F}rench News Under Topic Control",
+    author = "Sobhy, Amr",
+    editor = "Ortiz Suarez, Pedro  and
+      Burchell, Laurie  and
+      Ljube{\v{s}}i{\'c}, Nikola  and
+      Scherrer, Yves  and
+      Laippala, Veronika  and
+      Dini{\'c}, Vuk  and
+      Vaughan, Thom",
+    booktitle = "Proceedings of the 13th Web-as-Corpus Workshop",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.wac-1.3/",
+    doi = "10.18653/2026.wac-1.3",
+    pages = "22--36",
+    ISBN = "979-8-89176-481-1"
+}
+```
+
+---
+
+## Reproduction guide
 
 French headlines are copyrighted, so raw text is **not** shipped. `data/corpus_manifest.csv.gz`
 rebuilds the balanced benchmark from public URLs (§A).
